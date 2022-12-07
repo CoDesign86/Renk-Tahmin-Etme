@@ -1,0 +1,11 @@
+renk = input("rengi gir: ")
+
+if renk == "sarı":
+  print("sarıymış")
+elif renk == "mavi":
+  print("maviymiş")
+elif renk == "beyaz":
+  print("beyazmış")
+
+else:
+  print("hiçbirisi")
